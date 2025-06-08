@@ -1,0 +1,6 @@
+*.pkl
+__pycache__/
+train_model.py
+templates.py
+/data
+venv
